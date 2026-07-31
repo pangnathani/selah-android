@@ -27,7 +27,7 @@ Because Selah is an experimental app that actively interrupts your screen time, 
 Here is exactly how to install the app and allow it to work on your phone:
 
 ### Step 1: Download the App
-1. Go to the **[Releases](https://github.com/)** page on this GitHub repository.
+1. Go to the **[Releases](https://github.com/pangnathani/selah-android/releases/latest)** page on this GitHub repository.
 2. Download the latest `Selah-v4.7.0.apk` file to your Android phone.
 3. Tap on the downloaded file and select **Install** (if your phone asks if you want to install apps from unknown sources, tap "Allow").
 
